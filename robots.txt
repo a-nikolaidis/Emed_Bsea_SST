@@ -1,0 +1,4 @@
+Sitemap: http://a-nikolaidis.github.io/Emed_Bsea_SST/sitemapindex.xml
+
+User-Agent: *
+Host: a-nikolaidis.github.io

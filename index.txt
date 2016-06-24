@@ -1,0 +1,23 @@
+﻿.. title: Welcome!
+.. slug: index
+.. date: 2016-06-12 01:11:14 UTC+03:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+
+We are providing reconstructed sea surface temperature (SST) satellite images and data, covering the Eastern Mediterranean and Black Sea regions.
+
+.. figure:: /images/sample_SST__23.jpg
+   :target: /images/sample_SST__23.jpg?zz=1
+   :class: thumbnail
+   :alt: reconstucted satellite SST
+
+
+Cloud-free data were produced by applying the `DINEOF <http://modb.oce.ulg.ac.be/mediawiki/index.php/DINEOF>`__ algorithm over the `EUMEDSAT <http://www.osi-saf.org/>`__ five (5) km grid Level 3 data on daily basis, for a seven (7) days period of hourly steps.
+
+
+.. caution:: 
+
+   The use of these product is granted to every user, free of charge. The Department of Civil Eng. & Geoinformatics of Cyprus University of Technology offers no warranty and accepts no liability in respect of these products. CUT neither commits to nor guarantees the continuity, availability, or quality or suitability for any purpose. Downloading and using these products imply agreement of acceptance of these terms.
