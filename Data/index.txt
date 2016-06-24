@@ -1,6 +1,6 @@
 .. title: Data
 .. slug: Data
-.. date: 2016-06-24 12:31:41 UTC
+.. date: 2016-06-24 12:39:50 UTC
 .. tags:
 .. category:
 .. link:
@@ -347,7 +347,7 @@
 
 .. hint:: 
 
-   1. After each file selection, press the *RAW* button to donwload. 
+   1. After each file selection, press the **RAW** button to donwload. 
 
-   2. If you wish to get all data files, follow this `link <wget https://github.com/a-nikolaidis/SSTData/archive/master.zip>`__
+   2. You can get **all** data files `here. <https://github.com/a-nikolaidis/SSTData/archive/master.zip>`__
 
