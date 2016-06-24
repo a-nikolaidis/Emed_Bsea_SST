@@ -1,6 +1,6 @@
 .. title: Data
 .. slug: Data
-.. date: 2016-06-24 12:06:33 UTC
+.. date: 2016-06-24 12:31:41 UTC
 .. tags:
 .. category:
 .. link:
@@ -347,9 +347,7 @@
 
 .. hint:: 
 
-   If you wish to get all data files, it is suggested to use something like:
+   1. After each file selection, press the *RAW* button to donwload. 
 
-   .. code:: 
-
-      wget -t 3  -P</target_folder_name> -r -A,.gz -l1 -nd http://0.0.0.0:8000/Data/
+   2. If you wish to get all data files, follow this `link <wget https://github.com/a-nikolaidis/SSTData/archive/master.zip>`__
 
