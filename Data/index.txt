@@ -1,339 +1,339 @@
 .. title: Data
 .. slug: Data
-.. date: 2016-06-25 01:02:12 UTC
+.. date: 2016-06-25 01:26:58 UTC
 .. tags:
 .. category:
 .. link:
 .. description:
 .. type: text
  
-  `2016-06-17_SST_00.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_00.nc.gz>`__
+  `2016-06-17_SST_00.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_00.nc.gz>`__
 
-  `2016-06-17_SST_01.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_01.nc.gz>`__
+  `2016-06-17_SST_01.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_01.nc.gz>`__
 
-  `2016-06-17_SST_02.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_02.nc.gz>`__
+  `2016-06-17_SST_02.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_02.nc.gz>`__
 
-  `2016-06-17_SST_03.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_03.nc.gz>`__
+  `2016-06-17_SST_03.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_03.nc.gz>`__
 
-  `2016-06-17_SST_04.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_04.nc.gz>`__
+  `2016-06-17_SST_04.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_04.nc.gz>`__
 
-  `2016-06-17_SST_05.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_05.nc.gz>`__
+  `2016-06-17_SST_05.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_05.nc.gz>`__
 
-  `2016-06-17_SST_06.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_06.nc.gz>`__
+  `2016-06-17_SST_06.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_06.nc.gz>`__
 
-  `2016-06-17_SST_07.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_07.nc.gz>`__
+  `2016-06-17_SST_07.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_07.nc.gz>`__
 
-  `2016-06-17_SST_08.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_08.nc.gz>`__
+  `2016-06-17_SST_08.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_08.nc.gz>`__
 
-  `2016-06-17_SST_09.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_09.nc.gz>`__
+  `2016-06-17_SST_09.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_09.nc.gz>`__
 
-  `2016-06-17_SST_10.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_10.nc.gz>`__
+  `2016-06-17_SST_10.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_10.nc.gz>`__
 
-  `2016-06-17_SST_11.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_11.nc.gz>`__
+  `2016-06-17_SST_11.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_11.nc.gz>`__
 
-  `2016-06-17_SST_12.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_12.nc.gz>`__
+  `2016-06-17_SST_12.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_12.nc.gz>`__
 
-  `2016-06-17_SST_13.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_13.nc.gz>`__
+  `2016-06-17_SST_13.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_13.nc.gz>`__
 
-  `2016-06-17_SST_14.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_14.nc.gz>`__
+  `2016-06-17_SST_14.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_14.nc.gz>`__
 
-  `2016-06-17_SST_15.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_15.nc.gz>`__
+  `2016-06-17_SST_15.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_15.nc.gz>`__
 
-  `2016-06-17_SST_16.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_16.nc.gz>`__
+  `2016-06-17_SST_16.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_16.nc.gz>`__
 
-  `2016-06-17_SST_17.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_17.nc.gz>`__
+  `2016-06-17_SST_17.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_17.nc.gz>`__
 
-  `2016-06-17_SST_18.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_18.nc.gz>`__
+  `2016-06-17_SST_18.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_18.nc.gz>`__
 
-  `2016-06-17_SST_19.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_19.nc.gz>`__
+  `2016-06-17_SST_19.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_19.nc.gz>`__
 
-  `2016-06-17_SST_20.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_20.nc.gz>`__
+  `2016-06-17_SST_20.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_20.nc.gz>`__
 
-  `2016-06-17_SST_21.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_21.nc.gz>`__
+  `2016-06-17_SST_21.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_21.nc.gz>`__
 
-  `2016-06-17_SST_22.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_22.nc.gz>`__
+  `2016-06-17_SST_22.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_22.nc.gz>`__
 
-  `2016-06-17_SST_23.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-17_SST_23.nc.gz>`__
+  `2016-06-17_SST_23.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-17_SST_23.nc.gz>`__
 
-  `2016-06-18_SST_00.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_00.nc.gz>`__
+  `2016-06-18_SST_00.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_00.nc.gz>`__
 
-  `2016-06-18_SST_01.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_01.nc.gz>`__
+  `2016-06-18_SST_01.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_01.nc.gz>`__
 
-  `2016-06-18_SST_02.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_02.nc.gz>`__
+  `2016-06-18_SST_02.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_02.nc.gz>`__
 
-  `2016-06-18_SST_03.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_03.nc.gz>`__
+  `2016-06-18_SST_03.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_03.nc.gz>`__
 
-  `2016-06-18_SST_04.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_04.nc.gz>`__
+  `2016-06-18_SST_04.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_04.nc.gz>`__
 
-  `2016-06-18_SST_05.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_05.nc.gz>`__
+  `2016-06-18_SST_05.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_05.nc.gz>`__
 
-  `2016-06-18_SST_06.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_06.nc.gz>`__
+  `2016-06-18_SST_06.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_06.nc.gz>`__
 
-  `2016-06-18_SST_07.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_07.nc.gz>`__
+  `2016-06-18_SST_07.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_07.nc.gz>`__
 
-  `2016-06-18_SST_08.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_08.nc.gz>`__
+  `2016-06-18_SST_08.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_08.nc.gz>`__
 
-  `2016-06-18_SST_09.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_09.nc.gz>`__
+  `2016-06-18_SST_09.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_09.nc.gz>`__
 
-  `2016-06-18_SST_10.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_10.nc.gz>`__
+  `2016-06-18_SST_10.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_10.nc.gz>`__
 
-  `2016-06-18_SST_11.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_11.nc.gz>`__
+  `2016-06-18_SST_11.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_11.nc.gz>`__
 
-  `2016-06-18_SST_12.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_12.nc.gz>`__
+  `2016-06-18_SST_12.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_12.nc.gz>`__
 
-  `2016-06-18_SST_13.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_13.nc.gz>`__
+  `2016-06-18_SST_13.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_13.nc.gz>`__
 
-  `2016-06-18_SST_14.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_14.nc.gz>`__
+  `2016-06-18_SST_14.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_14.nc.gz>`__
 
-  `2016-06-18_SST_15.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_15.nc.gz>`__
+  `2016-06-18_SST_15.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_15.nc.gz>`__
 
-  `2016-06-18_SST_16.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_16.nc.gz>`__
+  `2016-06-18_SST_16.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_16.nc.gz>`__
 
-  `2016-06-18_SST_17.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_17.nc.gz>`__
+  `2016-06-18_SST_17.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_17.nc.gz>`__
 
-  `2016-06-18_SST_18.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_18.nc.gz>`__
+  `2016-06-18_SST_18.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_18.nc.gz>`__
 
-  `2016-06-18_SST_19.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_19.nc.gz>`__
+  `2016-06-18_SST_19.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_19.nc.gz>`__
 
-  `2016-06-18_SST_20.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_20.nc.gz>`__
+  `2016-06-18_SST_20.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_20.nc.gz>`__
 
-  `2016-06-18_SST_21.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_21.nc.gz>`__
+  `2016-06-18_SST_21.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_21.nc.gz>`__
 
-  `2016-06-18_SST_22.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_22.nc.gz>`__
+  `2016-06-18_SST_22.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_22.nc.gz>`__
 
-  `2016-06-18_SST_23.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-18_SST_23.nc.gz>`__
+  `2016-06-18_SST_23.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-18_SST_23.nc.gz>`__
 
-  `2016-06-19_SST_00.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_00.nc.gz>`__
+  `2016-06-19_SST_00.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_00.nc.gz>`__
 
-  `2016-06-19_SST_01.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_01.nc.gz>`__
+  `2016-06-19_SST_01.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_01.nc.gz>`__
 
-  `2016-06-19_SST_02.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_02.nc.gz>`__
+  `2016-06-19_SST_02.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_02.nc.gz>`__
 
-  `2016-06-19_SST_03.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_03.nc.gz>`__
+  `2016-06-19_SST_03.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_03.nc.gz>`__
 
-  `2016-06-19_SST_04.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_04.nc.gz>`__
+  `2016-06-19_SST_04.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_04.nc.gz>`__
 
-  `2016-06-19_SST_05.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_05.nc.gz>`__
+  `2016-06-19_SST_05.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_05.nc.gz>`__
 
-  `2016-06-19_SST_06.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_06.nc.gz>`__
+  `2016-06-19_SST_06.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_06.nc.gz>`__
 
-  `2016-06-19_SST_07.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_07.nc.gz>`__
+  `2016-06-19_SST_07.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_07.nc.gz>`__
 
-  `2016-06-19_SST_08.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_08.nc.gz>`__
+  `2016-06-19_SST_08.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_08.nc.gz>`__
 
-  `2016-06-19_SST_09.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_09.nc.gz>`__
+  `2016-06-19_SST_09.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_09.nc.gz>`__
 
-  `2016-06-19_SST_10.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_10.nc.gz>`__
+  `2016-06-19_SST_10.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_10.nc.gz>`__
 
-  `2016-06-19_SST_11.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_11.nc.gz>`__
+  `2016-06-19_SST_11.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_11.nc.gz>`__
 
-  `2016-06-19_SST_12.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_12.nc.gz>`__
+  `2016-06-19_SST_12.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_12.nc.gz>`__
 
-  `2016-06-19_SST_13.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_13.nc.gz>`__
+  `2016-06-19_SST_13.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_13.nc.gz>`__
 
-  `2016-06-19_SST_14.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_14.nc.gz>`__
+  `2016-06-19_SST_14.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_14.nc.gz>`__
 
-  `2016-06-19_SST_15.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_15.nc.gz>`__
+  `2016-06-19_SST_15.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_15.nc.gz>`__
 
-  `2016-06-19_SST_16.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_16.nc.gz>`__
+  `2016-06-19_SST_16.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_16.nc.gz>`__
 
-  `2016-06-19_SST_17.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_17.nc.gz>`__
+  `2016-06-19_SST_17.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_17.nc.gz>`__
 
-  `2016-06-19_SST_18.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_18.nc.gz>`__
+  `2016-06-19_SST_18.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_18.nc.gz>`__
 
-  `2016-06-19_SST_19.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_19.nc.gz>`__
+  `2016-06-19_SST_19.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_19.nc.gz>`__
 
-  `2016-06-19_SST_20.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_20.nc.gz>`__
+  `2016-06-19_SST_20.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_20.nc.gz>`__
 
-  `2016-06-19_SST_21.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_21.nc.gz>`__
+  `2016-06-19_SST_21.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_21.nc.gz>`__
 
-  `2016-06-19_SST_22.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_22.nc.gz>`__
+  `2016-06-19_SST_22.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_22.nc.gz>`__
 
-  `2016-06-19_SST_23.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-19_SST_23.nc.gz>`__
+  `2016-06-19_SST_23.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-19_SST_23.nc.gz>`__
 
-  `2016-06-20_SST_00.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_00.nc.gz>`__
+  `2016-06-20_SST_00.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_00.nc.gz>`__
 
-  `2016-06-20_SST_01.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_01.nc.gz>`__
+  `2016-06-20_SST_01.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_01.nc.gz>`__
 
-  `2016-06-20_SST_02.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_02.nc.gz>`__
+  `2016-06-20_SST_02.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_02.nc.gz>`__
 
-  `2016-06-20_SST_03.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_03.nc.gz>`__
+  `2016-06-20_SST_03.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_03.nc.gz>`__
 
-  `2016-06-20_SST_04.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_04.nc.gz>`__
+  `2016-06-20_SST_04.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_04.nc.gz>`__
 
-  `2016-06-20_SST_05.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_05.nc.gz>`__
+  `2016-06-20_SST_05.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_05.nc.gz>`__
 
-  `2016-06-20_SST_06.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_06.nc.gz>`__
+  `2016-06-20_SST_06.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_06.nc.gz>`__
 
-  `2016-06-20_SST_07.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_07.nc.gz>`__
+  `2016-06-20_SST_07.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_07.nc.gz>`__
 
-  `2016-06-20_SST_08.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_08.nc.gz>`__
+  `2016-06-20_SST_08.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_08.nc.gz>`__
 
-  `2016-06-20_SST_09.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_09.nc.gz>`__
+  `2016-06-20_SST_09.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_09.nc.gz>`__
 
-  `2016-06-20_SST_10.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_10.nc.gz>`__
+  `2016-06-20_SST_10.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_10.nc.gz>`__
 
-  `2016-06-20_SST_11.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_11.nc.gz>`__
+  `2016-06-20_SST_11.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_11.nc.gz>`__
 
-  `2016-06-20_SST_12.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_12.nc.gz>`__
+  `2016-06-20_SST_12.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_12.nc.gz>`__
 
-  `2016-06-20_SST_13.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_13.nc.gz>`__
+  `2016-06-20_SST_13.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_13.nc.gz>`__
 
-  `2016-06-20_SST_14.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_14.nc.gz>`__
+  `2016-06-20_SST_14.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_14.nc.gz>`__
 
-  `2016-06-20_SST_15.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_15.nc.gz>`__
+  `2016-06-20_SST_15.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_15.nc.gz>`__
 
-  `2016-06-20_SST_16.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_16.nc.gz>`__
+  `2016-06-20_SST_16.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_16.nc.gz>`__
 
-  `2016-06-20_SST_17.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_17.nc.gz>`__
+  `2016-06-20_SST_17.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_17.nc.gz>`__
 
-  `2016-06-20_SST_18.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_18.nc.gz>`__
+  `2016-06-20_SST_18.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_18.nc.gz>`__
 
-  `2016-06-20_SST_19.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_19.nc.gz>`__
+  `2016-06-20_SST_19.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_19.nc.gz>`__
 
-  `2016-06-20_SST_20.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_20.nc.gz>`__
+  `2016-06-20_SST_20.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_20.nc.gz>`__
 
-  `2016-06-20_SST_21.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_21.nc.gz>`__
+  `2016-06-20_SST_21.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_21.nc.gz>`__
 
-  `2016-06-20_SST_22.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_22.nc.gz>`__
+  `2016-06-20_SST_22.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_22.nc.gz>`__
 
-  `2016-06-20_SST_23.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-20_SST_23.nc.gz>`__
+  `2016-06-20_SST_23.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-20_SST_23.nc.gz>`__
 
-  `2016-06-21_SST_00.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_00.nc.gz>`__
+  `2016-06-21_SST_00.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_00.nc.gz>`__
 
-  `2016-06-21_SST_01.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_01.nc.gz>`__
+  `2016-06-21_SST_01.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_01.nc.gz>`__
 
-  `2016-06-21_SST_02.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_02.nc.gz>`__
+  `2016-06-21_SST_02.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_02.nc.gz>`__
 
-  `2016-06-21_SST_03.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_03.nc.gz>`__
+  `2016-06-21_SST_03.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_03.nc.gz>`__
 
-  `2016-06-21_SST_04.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_04.nc.gz>`__
+  `2016-06-21_SST_04.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_04.nc.gz>`__
 
-  `2016-06-21_SST_05.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_05.nc.gz>`__
+  `2016-06-21_SST_05.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_05.nc.gz>`__
 
-  `2016-06-21_SST_06.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_06.nc.gz>`__
+  `2016-06-21_SST_06.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_06.nc.gz>`__
 
-  `2016-06-21_SST_07.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_07.nc.gz>`__
+  `2016-06-21_SST_07.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_07.nc.gz>`__
 
-  `2016-06-21_SST_08.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_08.nc.gz>`__
+  `2016-06-21_SST_08.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_08.nc.gz>`__
 
-  `2016-06-21_SST_09.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_09.nc.gz>`__
+  `2016-06-21_SST_09.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_09.nc.gz>`__
 
-  `2016-06-21_SST_10.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_10.nc.gz>`__
+  `2016-06-21_SST_10.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_10.nc.gz>`__
 
-  `2016-06-21_SST_11.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_11.nc.gz>`__
+  `2016-06-21_SST_11.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_11.nc.gz>`__
 
-  `2016-06-21_SST_12.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_12.nc.gz>`__
+  `2016-06-21_SST_12.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_12.nc.gz>`__
 
-  `2016-06-21_SST_13.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_13.nc.gz>`__
+  `2016-06-21_SST_13.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_13.nc.gz>`__
 
-  `2016-06-21_SST_14.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_14.nc.gz>`__
+  `2016-06-21_SST_14.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_14.nc.gz>`__
 
-  `2016-06-21_SST_15.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_15.nc.gz>`__
+  `2016-06-21_SST_15.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_15.nc.gz>`__
 
-  `2016-06-21_SST_16.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_16.nc.gz>`__
+  `2016-06-21_SST_16.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_16.nc.gz>`__
 
-  `2016-06-21_SST_17.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_17.nc.gz>`__
+  `2016-06-21_SST_17.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_17.nc.gz>`__
 
-  `2016-06-21_SST_18.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_18.nc.gz>`__
+  `2016-06-21_SST_18.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_18.nc.gz>`__
 
-  `2016-06-21_SST_19.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_19.nc.gz>`__
+  `2016-06-21_SST_19.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_19.nc.gz>`__
 
-  `2016-06-21_SST_20.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_20.nc.gz>`__
+  `2016-06-21_SST_20.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_20.nc.gz>`__
 
-  `2016-06-21_SST_21.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_21.nc.gz>`__
+  `2016-06-21_SST_21.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_21.nc.gz>`__
 
-  `2016-06-21_SST_22.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_22.nc.gz>`__
+  `2016-06-21_SST_22.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_22.nc.gz>`__
 
-  `2016-06-21_SST_23.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-21_SST_23.nc.gz>`__
+  `2016-06-21_SST_23.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-21_SST_23.nc.gz>`__
 
-  `2016-06-22_SST_00.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_00.nc.gz>`__
+  `2016-06-22_SST_00.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_00.nc.gz>`__
 
-  `2016-06-22_SST_01.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_01.nc.gz>`__
+  `2016-06-22_SST_01.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_01.nc.gz>`__
 
-  `2016-06-22_SST_02.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_02.nc.gz>`__
+  `2016-06-22_SST_02.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_02.nc.gz>`__
 
-  `2016-06-22_SST_03.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_03.nc.gz>`__
+  `2016-06-22_SST_03.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_03.nc.gz>`__
 
-  `2016-06-22_SST_04.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_04.nc.gz>`__
+  `2016-06-22_SST_04.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_04.nc.gz>`__
 
-  `2016-06-22_SST_05.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_05.nc.gz>`__
+  `2016-06-22_SST_05.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_05.nc.gz>`__
 
-  `2016-06-22_SST_06.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_06.nc.gz>`__
+  `2016-06-22_SST_06.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_06.nc.gz>`__
 
-  `2016-06-22_SST_07.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_07.nc.gz>`__
+  `2016-06-22_SST_07.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_07.nc.gz>`__
 
-  `2016-06-22_SST_08.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_08.nc.gz>`__
+  `2016-06-22_SST_08.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_08.nc.gz>`__
 
-  `2016-06-22_SST_09.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_09.nc.gz>`__
+  `2016-06-22_SST_09.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_09.nc.gz>`__
 
-  `2016-06-22_SST_10.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_10.nc.gz>`__
+  `2016-06-22_SST_10.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_10.nc.gz>`__
 
-  `2016-06-22_SST_11.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_11.nc.gz>`__
+  `2016-06-22_SST_11.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_11.nc.gz>`__
 
-  `2016-06-22_SST_12.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_12.nc.gz>`__
+  `2016-06-22_SST_12.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_12.nc.gz>`__
 
-  `2016-06-22_SST_13.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_13.nc.gz>`__
+  `2016-06-22_SST_13.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_13.nc.gz>`__
 
-  `2016-06-22_SST_14.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_14.nc.gz>`__
+  `2016-06-22_SST_14.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_14.nc.gz>`__
 
-  `2016-06-22_SST_15.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_15.nc.gz>`__
+  `2016-06-22_SST_15.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_15.nc.gz>`__
 
-  `2016-06-22_SST_16.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_16.nc.gz>`__
+  `2016-06-22_SST_16.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_16.nc.gz>`__
 
-  `2016-06-22_SST_17.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_17.nc.gz>`__
+  `2016-06-22_SST_17.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_17.nc.gz>`__
 
-  `2016-06-22_SST_18.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_18.nc.gz>`__
+  `2016-06-22_SST_18.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_18.nc.gz>`__
 
-  `2016-06-22_SST_19.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_19.nc.gz>`__
+  `2016-06-22_SST_19.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_19.nc.gz>`__
 
-  `2016-06-22_SST_20.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_20.nc.gz>`__
+  `2016-06-22_SST_20.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_20.nc.gz>`__
 
-  `2016-06-22_SST_22.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_22.nc.gz>`__
+  `2016-06-22_SST_22.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_22.nc.gz>`__
 
-  `2016-06-22_SST_23.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-22_SST_23.nc.gz>`__
+  `2016-06-22_SST_23.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-22_SST_23.nc.gz>`__
 
-  `2016-06-23_SST_00.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_00.nc.gz>`__
+  `2016-06-23_SST_00.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_00.nc.gz>`__
 
-  `2016-06-23_SST_01.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_01.nc.gz>`__
+  `2016-06-23_SST_01.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_01.nc.gz>`__
 
-  `2016-06-23_SST_02.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_02.nc.gz>`__
+  `2016-06-23_SST_02.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_02.nc.gz>`__
 
-  `2016-06-23_SST_03.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_03.nc.gz>`__
+  `2016-06-23_SST_03.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_03.nc.gz>`__
 
-  `2016-06-23_SST_04.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_04.nc.gz>`__
+  `2016-06-23_SST_04.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_04.nc.gz>`__
 
-  `2016-06-23_SST_05.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_05.nc.gz>`__
+  `2016-06-23_SST_05.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_05.nc.gz>`__
 
-  `2016-06-23_SST_06.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_06.nc.gz>`__
+  `2016-06-23_SST_06.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_06.nc.gz>`__
 
-  `2016-06-23_SST_07.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_07.nc.gz>`__
+  `2016-06-23_SST_07.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_07.nc.gz>`__
 
-  `2016-06-23_SST_08.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_08.nc.gz>`__
+  `2016-06-23_SST_08.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_08.nc.gz>`__
 
-  `2016-06-23_SST_09.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_09.nc.gz>`__
+  `2016-06-23_SST_09.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_09.nc.gz>`__
 
-  `2016-06-23_SST_10.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_10.nc.gz>`__
+  `2016-06-23_SST_10.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_10.nc.gz>`__
 
-  `2016-06-23_SST_11.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_11.nc.gz>`__
+  `2016-06-23_SST_11.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_11.nc.gz>`__
 
-  `2016-06-23_SST_12.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_12.nc.gz>`__
+  `2016-06-23_SST_12.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_12.nc.gz>`__
 
-  `2016-06-23_SST_13.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_13.nc.gz>`__
+  `2016-06-23_SST_13.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_13.nc.gz>`__
 
-  `2016-06-23_SST_14.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_14.nc.gz>`__
+  `2016-06-23_SST_14.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_14.nc.gz>`__
 
-  `2016-06-23_SST_15.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_15.nc.gz>`__
+  `2016-06-23_SST_15.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_15.nc.gz>`__
 
-  `2016-06-23_SST_16.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_16.nc.gz>`__
+  `2016-06-23_SST_16.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_16.nc.gz>`__
 
-  `2016-06-23_SST_17.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_17.nc.gz>`__
+  `2016-06-23_SST_17.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_17.nc.gz>`__
 
-  `2016-06-23_SST_18.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_18.nc.gz>`__
+  `2016-06-23_SST_18.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_18.nc.gz>`__
 
-  `2016-06-23_SST_19.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-23_SST_19.nc.gz>`__
+  `2016-06-23_SST_19.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-23_SST_19.nc.gz>`__
 
-  `2016-06-24_SST_00.nc.gz <https://github.com/a-nikolaidis/Emed_Bsea_SST/tree/master/Data/2016-06-24_SST_00.nc.gz>`__
+  `2016-06-24_SST_00.nc.gz <https://github.com/a-nikolaidis/SSTData/2016-06-24_SST_00.nc.gz>`__
 
 .. hint:: 
 
